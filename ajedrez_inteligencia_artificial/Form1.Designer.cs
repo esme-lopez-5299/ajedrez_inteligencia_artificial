@@ -861,7 +861,7 @@
             // 
             this.pictureBoxH8.BackColor = System.Drawing.Color.Black;
             this.pictureBoxH8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBoxH8.Location = new System.Drawing.Point(434, 28);
+            this.pictureBoxH8.Location = new System.Drawing.Point(441, 28);
             this.pictureBoxH8.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.pictureBoxH8.Name = "pictureBoxH8";
             this.pictureBoxH8.Size = new System.Drawing.Size(58, 57);
